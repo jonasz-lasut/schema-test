@@ -29,7 +29,7 @@
         }
     ],
     "paths": {
-        "/pet/findByStatus/MultipleExamples": {
+        "/pet/newOperation": {
             "get": {
                 "summary": "Finds Pets by status",
                 "description": "Multiple status values can be provided with comma separated strings",
